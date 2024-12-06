@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/backgroud">
+        <file>ATRI.jpg</file>
+        <file>ATRI2.jpg</file>
+    </qresource>
+</RCC>
